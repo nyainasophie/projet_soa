@@ -1,0 +1,26 @@
+**********DESCRIPTION PROJET*******************
+Une Application de gestion de réservation de voiture permet aux utilisateurs de reserver des véhicules en ligne, 
+de gérer leurs réservation exixtants, et parfois de suivre l'etat de leur locations.
+Elle peut inclure des fonctionnalités telles que la recherche de disponibilité, la comparaison de prix , 
+la d*sélection du type de véhicule
+la réservetion, la modificationet l'annulation de reservation, 
+ainsi que les informations sur les agences de location et les politique de
+location.
+
+***** Application microservice******
+il y a 5 services avec 5 BD
+
+****mila créer BD fa sequlize moa zany efa mi generé table automatique *******
+ireto nom BD 
+-clients
+-locations
+-users
+-voiture
+
+ *******Documentation API********
+ user :
+ 
+
+
+
+
